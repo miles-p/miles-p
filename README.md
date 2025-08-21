@@ -8,3 +8,5 @@
 - 📫 How to reach me: [my email](mailto:miles@punchav.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a German/English-bilingual :O
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-p)](https://github.com/anuraghazra/github-readme-stats)
