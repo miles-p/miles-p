@@ -5,4 +5,4 @@
 - 💬 Ask me about my travels (most recently to Germany)
 - 📫 How to reach me: [my email](mailto://miles@punchav.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Your BMI doesn't change until you lose your **second** leg.
+- ⚡ I'm a Junior Member of NUBots! Find out more [here](https://github.com/NUBots/NUBots)
