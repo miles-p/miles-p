@@ -1,5 +1,7 @@
 ## Miles Punch (*StudIEAust*)
 
+I write code for entertainment, robotics, and automation applications. The quality of the repositories herein is not guaranteed. Some are useful, clean, and well-implemented. Some are downright spaghetti code.
+
 - 🔭 I’m currently working on a [web interface for ETC Eos](https://github.com/miles-p/runLX) and an [LED Artnet Pixel Decoder](https://github.com/miles-p/LED-Controller)
 - 🌱 I’m currently learning German and C!
 - 💬 Ask me about my travels (most recently to Germany)
