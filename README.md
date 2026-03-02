@@ -1,4 +1,4 @@
-## Miles Punch (StudIEAust)
+## <h1>Miles Punch</h1> <h3>*StudIEAust*</h3>
 
 I write code for entertainment, robotics, and automation applications. The quality of the repositories herein is not guaranteed. Some are useful, clean, and well-implemented. Some are downright spaghetti code written at 2AM, fueled solely by Red Bull and hope.
 
@@ -8,4 +8,4 @@ I write code for entertainment, robotics, and automation applications. The quali
 - Countries visited: 🇳🇿 🇫🇯 🇫🇷 🇮🇩 🇲🇾 🇻🇳 🇩🇪 🇦🇹 🇫🇷 🇭🇰 🇹🇭 🇹🇼
 - 📫 How to reach me: [my email](mailto://miles@punchav.com)
 - 😄 Pronouns: He/Him
-- ⚡ I'm a Junior Member of NUBots! Find out more [here](https://github.com/NUBots/NUBots)
+- ⚡ I'm a Member of NUBots! Find out more [here](https://github.com/NUBots/NUBots)
