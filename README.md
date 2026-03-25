@@ -4,7 +4,7 @@ I write code for entertainment, robotics, and automation applications. The quali
 
 - 🔭 I’m currently working on a [web interface for ETC Eos](https://github.com/miles-p/runLX) and an [LED Artnet Pixel Decoder](https://github.com/miles-p/LED-Controller)
 - 🌱 I’m currently learning German and C!
-- 💬 Ask me about my travels (most recently to Taiwan)
+- 💬 Ask me about my travels (most recently to Taiwan, next to Korea for RoboCup!)
 - ✈️ Countries visited: 🇳🇿 🇫🇯 🇫🇷 🇮🇩 🇲🇾 🇻🇳 🇩🇪 🇦🇹 🇫🇷 🇭🇰 🇹🇭 🇹🇼
 - 📫 How to reach me: [my email](mailto://miles@punchav.com)
 - 😄 Pronouns: He/Him
