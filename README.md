@@ -28,3 +28,10 @@ Tragedies happen; people get hurt\
 or die; and you suffer and get old.\
 Nothing you do can stop time’s unfolding.\
 You don’t ever let go of the thread._
+
+---
+
+``find_out_more.md``
+
+[professional AV website](https://punchav.com) \
+[professional engineering portfolio](https://miles-p.github.io)
