@@ -36,6 +36,8 @@ You don’t ever let go of the thread._
 [professional AV website](https://punchav.com) \
 [professional engineering portfolio](https://miles-p.github.io)
 
+---
+
 ``what_im_listening_to.md``
 
-![image](http://58.111.193.157:8080/current_track.png)
+<img src="http://58.111.193.157:8080/current_track.png" alt-text="what i'm listening to"></img>
