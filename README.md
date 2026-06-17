@@ -38,6 +38,6 @@ You don’t ever let go of the thread._
 
 ---
 
-``what_im_listening_to.md``
+``favourite_album.md``
 
-<img src="http://58.111.193.157:8080/current_track.png" alt-text="what i'm listening to"></img>
+<img src="https://upload.wikimedia.org/wikipedia/en/1/10/Miles_Davis_-_Kind_of_Blue_album_cover.jpg" alt-text="what i'm listening to"></img>
