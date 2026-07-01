@@ -31,13 +31,15 @@ You don’t ever let go of the thread._
 
 ---
 
+``favourite_album.md``
+
+<img src="https://upload.wikimedia.org/wikipedia/en/1/10/Miles_Davis_-_Kind_of_Blue_album_cover.jpg" alt-text="what i'm listening to"></img>
+
+---
+
 ``find_out_more.md``
 
 [professional AV website](https://punchav.com) \
 [professional engineering portfolio](https://miles-p.github.io)
 
 ---
-
-``favourite_album.md``
-
-<img src="https://upload.wikimedia.org/wikipedia/en/1/10/Miles_Davis_-_Kind_of_Blue_album_cover.jpg" alt-text="what i'm listening to"></img>
