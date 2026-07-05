@@ -43,3 +43,5 @@ You don’t ever let go of the thread._
 [professional engineering portfolio](https://miles-p.github.io)
 
 ---
+
+this is the way my GitHub profile ends, not with a bang; but with a whimper.
