@@ -44,4 +44,4 @@ You don’t ever let go of the thread._
 
 ---
 
-this is the way my GitHub profile ends, not with a bang; but with a whimper.
+_this is the way my GitHub profile ends, not with a bang; but with a whimper._
