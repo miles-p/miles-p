@@ -11,7 +11,7 @@ I write code for entertainment, robotics, and automation applications. The quali
 - ✈️ Countries visited: 🇳🇿 🇫🇯 🇮🇩 🇲🇾 🇻🇳 🇩🇪 🇦🇹 🇫🇷 🇭🇰 🇳🇵 🇮🇳 🇹🇭 🇹🇼 🇰🇷
 - 📫 How to reach me: [my email](mailto://miles@punchav.com)
 - 😄 Pronouns: He/Him
-- ⚡ I'm a Member of NUBots! Find out more [here](https://github.com/NUBots/NUBots)
+- ⚡ I'm a Member of NUbots! Find out more [here](https://github.com/NUBots/NUBots)
 ---
 
 ``favourite_poem.md``
